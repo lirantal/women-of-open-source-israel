@@ -21,6 +21,8 @@
 | Name | Title | Expertise | Projects | Location |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | [Michal Porag](https://github.com/MichalPorag) | Front End Developer at Skillset | JavaScript | [safe-home-haytiSham](https://github.com/yarindeoh/safe-home-haytiSham) | Netanya
+| [Yarin Dekel](https://github.com/yarindeoh) | Front End Developer at Cloudinary | React | [safe-home-haytiSham](https://github.com/yarindeoh/safe-home-haytiSham) | ?
+| [Moran Weber](https://github.com/moranw) | Front End Developer & entrepreneur | JavaScript | [safe-home-haytiSham](https://github.com/yarindeoh/safe-home-haytiSham) | ?
 
 
 # License
