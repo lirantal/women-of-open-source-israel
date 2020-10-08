@@ -20,7 +20,7 @@
 
 | Name | Title | Expertise | Projects | Location |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [Michal Porag](https://github.com/MichalPorag) | Front End Developer at Skillset | JavaScript | [safe-home-haytiSham](https://github.com/yarindeoh/safe-home-haytiSham) | ?
+| [Michal Porag](https://github.com/MichalPorag) | Front End Developer at Skillset | JavaScript | [safe-home-haytiSham](https://github.com/yarindeoh/safe-home-haytiSham) | Netanya
 
 
 # License
