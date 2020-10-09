@@ -24,6 +24,7 @@
 | [Yarin Dekel](https://github.com/yarindeoh) | Front End Developer at Cloudinary | React | [safe-home-haytiSham](https://github.com/yarindeoh/safe-home-haytiSham) | ?
 | [Moran Weber](https://github.com/moranw) | Front End Developer & entrepreneur | JavaScript | [safe-home-haytiSham](https://github.com/yarindeoh/safe-home-haytiSham) | ?
 | [Hagar Shilo](https://github.com/strayblues) | Front End Developer & Blogger | JavaScript | Wikimedia: [oojs-ui](https://github.com/wikimedia/oojs-ui), [mediawiki](https://github.com/wikimedia/mediawiki), [todo-app-ooui-tutorial](https://github.com/mooeypoo/todo-app-ooui-tutorial)<br />ONLP Lab: [hexagon-app](https://github.com/OnlpLab/hexagon-app)<br>I also [blog](https://www.themarker.com/techblogs/anonymous-function) about tech and OSS | Tel Aviv
+| [Orit Wasserman](https://github.com/oritwas) | Architect at Red Hat | C/C++,Go, Python | Ceph, OpenShift Container Storage, Rook | Lower Galilee
 
 
 # License
