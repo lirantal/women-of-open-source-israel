@@ -26,6 +26,7 @@
 | [Hagar Shilo](https://github.com/strayblues) | Front End Developer & Blogger | JavaScript | Wikimedia: [oojs-ui](https://github.com/wikimedia/oojs-ui), [mediawiki](https://github.com/wikimedia/mediawiki), [todo-app-ooui-tutorial](https://github.com/mooeypoo/todo-app-ooui-tutorial)<br />ONLP Lab: [hexagon-app](https://github.com/OnlpLab/hexagon-app)<br>I also [blog](https://www.themarker.com/techblogs/anonymous-function) about tech and OSS | Tel Aviv
 | [Orit Wasserman](https://github.com/oritwas) | Architect at Red Hat | C/C++,Go, Python | Ceph, OpenShift Container Storage, Rook | Lower Galilee
 | [Liron Hazan](https://github.com/LironHazan) | Front End Developer & Blogger | TS -> JS  Rust | [s1-graphic-capsules](https://github.com/Sentinel-One/s1-graphic-capsules), [@sentinel-one/s1-lottie](https://github.com/Sentinel-One/lottie), [wokwi-elements](https://github.com/wokwi/wokwi-elements), [tstt_gen](https://github.com/LironHazan/tstt_gen), [advanced-patterns-in-typescript](https://github.com/LironHazan/advanced-patterns-in-typescript) and some more minor utils, [myblog](https://medium.com/@lironhazan) | _
+| [Maya Rashish](https://github.com/coypoop) | - | C, Go | [NetBSD](https://netbsd.org), [pkgsrc](https://github.com/netbsd/pkgsrc) | -
 
 
 # License
