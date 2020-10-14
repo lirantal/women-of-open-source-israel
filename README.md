@@ -27,7 +27,7 @@
 | [Orit Wasserman](https://github.com/oritwas) | Architect at Red Hat | C/C++,Go, Python | Ceph, OpenShift Container Storage, Rook | Lower Galilee
 | [Liron Hazan](https://github.com/LironHazan) | Front End Developer & Blogger | TS -> JS  Rust | [s1-graphic-capsules](https://github.com/Sentinel-One/s1-graphic-capsules), [@sentinel-one/s1-lottie](https://github.com/Sentinel-One/lottie), [wokwi-elements](https://github.com/wokwi/wokwi-elements), [tstt_gen](https://github.com/LironHazan/tstt_gen), [advanced-patterns-in-typescript](https://github.com/LironHazan/advanced-patterns-in-typescript) and some more minor utils, [myblog](https://medium.com/@lironhazan) | _
 | [Maya Rashish](https://github.com/coypoop) | - | C, Go | [NetBSD](https://netbsd.org), [pkgsrc](https://github.com/netbsd/pkgsrc) | -
-
+| [Limor Lahiani](https://github.com/limorl) | Principal Engineering Manager, CSE Healthcare @ Microsoft | python, dotnet core, nodejs | [Presidio](https://github.com/microsoft/presidio), [FHIR Server](https://github.com/microsoft/fhir-server), [K2Bridge](https://github.com/microsoft/K2Bridge) | -
 
 # License
 
