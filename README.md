@@ -39,3 +39,7 @@
 # Copyrights
 
 Repository hero picture [source](https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_Ein-Harod_Kibbutz_Members.jpg) at Wikimedia
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
